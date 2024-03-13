@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333255202185",
+    "project_id": "anonymoose-flutter",
+    "storage_bucket": "anonymoose-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333255202185:android:69360f4337e2faefbc3d58",
+        "android_client_info": {
+          "package_name": "com.example.anonymoose_confessions_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJGaBDqhayz1HuBKvaPmWP3WI8i1z6h_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
