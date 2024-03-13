@@ -15,6 +15,7 @@ class _HomePageState extends State<HomePage> {
   final currentUser = FirebaseAuth.instance.currentUser!;
   int _currentIndex = 1; // Start with the center icon selected
 
+
   TextEditingController searchController = TextEditingController(); // Controller for search bar
   late Stream<QuerySnapshot> _postsStream; // Stream to hold the posts data
 
